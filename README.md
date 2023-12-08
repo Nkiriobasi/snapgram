@@ -6,8 +6,8 @@ your creativity, Snapgram empowers users to express themselves through photos, v
 
 ## Key Features:
 
-• Instant Sharing: Share your life in real-time with friends and followers through instant photo 
-  and video uploads.
-• Stories: Create captivating stories, allowing you to share moments that matter without cluttering 
-  your profile.
-• Explore: Discover trending content and connect with new users through our curated Explore feed.
+• Instant Sharing - Share your life in real-time with friends and followers through instant photo 
+  and video uploads.<br>
+• Stories - Create captivating stories, allowing you to share moments that matter without cluttering 
+  your profile.<br>
+• Explore - Discover trending content and connect with new users through our curated Explore feed.
